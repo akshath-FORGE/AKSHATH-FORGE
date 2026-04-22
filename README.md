@@ -46,7 +46,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🖥️ **AI-Operated OS** | A full operating system controlled by AI | 🔨 In Progress |
-| 🤖 **Jarvis** | Personal AI assistant with voice + task automation | ✅ Built |
+| 🤖 **Eddy (jarvis)** | Personal AI assistant with voice + task automation | ✅ Built |
 | 🧩 **AI Agents** | Autonomous agents for real-world problem solving | ✅ Built |
 
 ---
