@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey, I'm Akshath 👋 — Welcome to the Forge.</h1>
 
 <p align="center">
